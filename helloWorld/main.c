@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Adunare 1+1 = %d !\n");
     return 0;
 }
